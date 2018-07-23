@@ -3,8 +3,8 @@
 <div>
 <b-navbar toggleable="md" type="dark" variant="dark" >
 <b-navbar-brand > <h2> Biblioteca Virtual</h2></b-navbar-brand>
-<b-navbar-brand href>Meus Livros</b-navbar-brand>
-<b-navbar-brand href>Cadastrar Livros</b-navbar-brand></b-navbar>
+<b-navbar-brand href="#">Meus Livros</b-navbar-brand>
+<b-navbar-brand href="#">Cadastrar Livros</b-navbar-brand></b-navbar>
 
 
 
